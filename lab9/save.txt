@@ -1,0 +1,4 @@
+Hero 85 20 10 2 0
+2
+Potion
+Sword

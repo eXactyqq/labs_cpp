@@ -1,0 +1,7 @@
+Game started.
+Battle started with Goblin
+Battle ended with Goblin
+Battle started with Skeleton
+Battle ended with Skeleton
+Game saved.
+Game loaded.
