@@ -1,0 +1,3 @@
+Player Hero 100 1
+Player Knight 80 2
+Player Mage 60 3
